@@ -1,2 +1,4 @@
 # gcalendar-viewer
-調整くん
+調整くんのメモ
+
+
